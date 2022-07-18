@@ -1,0 +1,4 @@
+[env]
+OPENCV_LINK_PATHS="/usr/local/lib"
+OPENCV_INCLUDE_PATHS="/usr/local/include"
+LIBCLANG_PATH="/usr/lib/llvm-11/lib"

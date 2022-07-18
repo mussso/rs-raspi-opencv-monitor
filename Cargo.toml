@@ -1,0 +1,15 @@
+[package]
+name = "rs-opencv"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-rt = "2.7.0"
+actix-web = "4.1.0"
+anyhow = "1.0"
+askama = "0.11.1"
+base64 = "0.13.0"
+opencv = "0.66"
+thiserror = "1.0.31"
